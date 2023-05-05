@@ -9,3 +9,5 @@
 ## 3. gpt 开发 tools
 
 ## 4. GPT 原理探索，或者最新的 GPT 相关 paper 研读
+
+[返回](../README.md)
